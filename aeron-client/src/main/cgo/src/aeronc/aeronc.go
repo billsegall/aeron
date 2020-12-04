@@ -2,8 +2,8 @@
 package aeronc
 
 /*
-#cgo CFLAGS: -I ../../c
-#cgo LDFLAGS: -L ../../../../../cppbuild/Release/lib -laeron_client
+#cgo CFLAGS: -I ../../../c
+#cgo LDFLAGS: -L ../../../../../../cppbuild/Release/lib -laeron_client
 #include <aeronc.h>
 */
 import "C"
